@@ -11,5 +11,5 @@ Using patient clinical data, this project is an end-to-end machine learning appl
 - Streamlit – interactive web application
 
 # **Model Performance (Best Model: SVM)**
-Accuracy: ~92%
-Caution: _This project should not be utilized for medical diagnosis; it is solely intended for educational purposes._
+### Accuracy: ~92%
+**Caution:** _This project should not be utilized for medical diagnosis; it is solely intended for educational purposes._
