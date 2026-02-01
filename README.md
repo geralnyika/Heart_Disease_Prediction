@@ -12,5 +12,4 @@ Using patient clinical data, this project is an end-to-end machine learning appl
 
 # **Model Performance (Best Model: SVM)**
 Accuracy: ~92%
-Caution: _This project should not be utilized for medical diagnosis; it is solely intended for educational purposes.
-_
+Caution: _This project should not be utilized for medical diagnosis; it is solely intended for educational purposes._
